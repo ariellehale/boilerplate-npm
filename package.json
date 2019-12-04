@@ -1,6 +1,6 @@
 {
-	"author": "Arielle Hale",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Arielle Hale",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
